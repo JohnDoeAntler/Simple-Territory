@@ -1,0 +1,12 @@
+name: Simple-Territory
+author: TYPE-0
+description: None of your business.
+version: 1.0.0
+main: com.c010ur1355.simpleterritory.main
+database: true
+softdepend: [Vault]
+
+commands:
+  trt:
+    usage: /trt <parameter>
+    description: None of your business.
